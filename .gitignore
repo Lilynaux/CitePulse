@@ -1,0 +1,31 @@
+# Dependencies
+node_modules/
+
+# Build output
+build/
+addon/content/main.js
+
+# Packaged plugin
+*.xpi
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+npm-debug.log*
+
+# Environment
+.env
+.env.local
+
+# TypeScript
+*.tsbuildinfo

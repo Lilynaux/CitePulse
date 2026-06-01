@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(conda create *)",
+      "Bash(conda run *)",
+      "Bash(mkdir -p /Users/yixuanli/.claude/projects/-Users-yixuanli-GitHub-000Mywork-202606OpenAlexToZotero/memory)",
+      "Bash(unzip -l /Users/yixuanli/GitHub/000Mywork/202606OpenAlexToZotero/build/zotero-openalex-citations.xpi)",
+      "Bash(defaults read *)"
+    ],
+    "additionalDirectories": [
+      "/Users/yixuanli/.claude/projects/-Users-yixuanli-GitHub-000Mywork-202606OpenAlexToZotero/memory"
+    ]
+  }
+}

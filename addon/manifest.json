@@ -1,0 +1,16 @@
+{
+  "manifest_version": 2,
+  "name": "CitePulse",
+  "version": "1.0.0",
+  "description": "Fetch and display citation counts from OpenAlex in Zotero",
+  "author": "Lilynaux",
+  "homepage_url": "https://github.com/Lilynaux/CitePulse",
+  "applications": {
+    "zotero": {
+      "id": "citepulse@lilynaux",
+      "update_url": "https://github.com/Lilynaux/CitePulse/releases/latest/download/update.json",
+      "strict_min_version": "7.0",
+      "strict_max_version": "10.*.*"
+    }
+  }
+}
