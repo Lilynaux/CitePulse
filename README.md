@@ -112,7 +112,3 @@ scripts/
 - Only contacts `https://api.openalex.org`
 
 ---
-
-## License
-
-MIT
