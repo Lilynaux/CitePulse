@@ -18,7 +18,7 @@ A Zotero 9 plugin that fetches citation counts from [OpenAlex](https://openalex.
 
 ## Installation
 
-1. Download `CitePulse.xpi` from the [Releases](https://github.com/example/zotero-openalex-citations/releases) page
+1. Download `CitePulse.xpi` from the [Releases](https://github.com/Lilynaux/CitePulse/releases) page
 2. In Zotero: **Tools → Add-ons → gear icon → Install Add-on From File…**
 3. Select `CitePulse.xpi` and restart Zotero
 
