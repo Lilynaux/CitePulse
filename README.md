@@ -4,7 +4,7 @@ A Zotero 9 plugin that fetches citation counts from [OpenAlex](https://openalex.
 
 ## Demo
 
-[![Watch the demo](https://img.youtube.com/vi/0GfBq66LNM4/maxresdefault.jpg)](https://youtu.be/0GfBq66LNM4)
+[![Watch the demo](https://img.youtube.com/vi/Zd-xhK8x1Ik/maxresdefault.jpg)](https://youtu.be/Zd-xhK8x1Ik)
 
 ---
 
